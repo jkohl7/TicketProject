@@ -1,0 +1,13 @@
+E:\.Net 2020\TicketsProject\bin\Debug\netcoreapp3.1\TicketsProject.exe
+E:\.Net 2020\TicketsProject\bin\Debug\netcoreapp3.1\TicketsProject.deps.json
+E:\.Net 2020\TicketsProject\bin\Debug\netcoreapp3.1\TicketsProject.runtimeconfig.json
+E:\.Net 2020\TicketsProject\bin\Debug\netcoreapp3.1\TicketsProject.runtimeconfig.dev.json
+E:\.Net 2020\TicketsProject\bin\Debug\netcoreapp3.1\TicketsProject.dll
+E:\.Net 2020\TicketsProject\bin\Debug\netcoreapp3.1\TicketsProject.pdb
+E:\.Net 2020\TicketsProject\obj\Debug\netcoreapp3.1\TicketsProject.csprojAssemblyReference.cache
+E:\.Net 2020\TicketsProject\obj\Debug\netcoreapp3.1\TicketsProject.AssemblyInfoInputs.cache
+E:\.Net 2020\TicketsProject\obj\Debug\netcoreapp3.1\TicketsProject.AssemblyInfo.cs
+E:\.Net 2020\TicketsProject\obj\Debug\netcoreapp3.1\TicketsProject.csproj.CoreCompileInputs.cache
+E:\.Net 2020\TicketsProject\obj\Debug\netcoreapp3.1\TicketsProject.dll
+E:\.Net 2020\TicketsProject\obj\Debug\netcoreapp3.1\TicketsProject.pdb
+E:\.Net 2020\TicketsProject\obj\Debug\netcoreapp3.1\TicketsProject.genruntimeconfig.cache
